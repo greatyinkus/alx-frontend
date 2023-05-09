@@ -343,16 +343,16 @@ a:active {
   height: 10rem;
 }
 .card-testimonial .card-quote cite {
-  display: block;
-  padding-top: 1rem;
-  color: var(--color-primary);
   content: \201C
   vertical-positon: -4.5rem
   horizontal-position: -1rem
   foreground-color: #efeded
   font-size: 10rem
   z-order: -1
-}
+  display: block;
+  padding-top: 1rem;
+  color: var(--color-primary);
+  }
 
 /* Grid styling and custom variables */
 ul.row {
