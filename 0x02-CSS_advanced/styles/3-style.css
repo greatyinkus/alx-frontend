@@ -19,7 +19,7 @@
 }
 
 {
-	text-color:color-black
+	text-color:var(color-black);
 }
 
 body{
@@ -27,14 +27,14 @@ body{
 }
 
 a{
-	color: text-color
+	var(color: text-color);
 }
 
 .section-tagline {
-	color: color-primary
+	var(color: color-primary);
 }
 
 .card-category {
-	color: color-primary
+	var(color: color-primary);
 }
 
