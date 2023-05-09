@@ -1,4 +1,4 @@
-:root{
+:root {
 	color-primary:#d73953
 }
 
@@ -22,11 +22,11 @@
 	text-color: var(color-black);
 }
 
-body{
+body {
 	color: var(text-color);
 }
 
-a{
+a {
 	color: var(text-color);
 }
 
