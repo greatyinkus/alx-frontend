@@ -19,22 +19,22 @@
 }
 
 {
-	text-color:var(color-black);
+	text-color: var(color-black);
 }
 
 body{
-	color: text-color
+	color: var(text-color);
 }
 
 a{
-	var(color: text-color);
+	color: var(text-color);
 }
 
 .section-tagline {
-	var(color: color-primary);
+	color: var(color-primary);
 }
 
 .card-category {
-	var(color: color-primary);
+	color: var(color-primary);
 }
 
