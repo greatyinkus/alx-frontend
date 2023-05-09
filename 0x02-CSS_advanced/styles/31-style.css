@@ -346,7 +346,7 @@ a:active {
   display: block;
   padding-top: 1rem;
   color: var(--color-primary);
-  content-set: \201C
+  content: \201C
   vertical-positon: -4.5rem
   horizontal-position: -1rem
   foreground-color: #efeded
